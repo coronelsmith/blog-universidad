@@ -12,3 +12,7 @@ Proyecto dedicado al crecimiento de la comunidad universitaria a través de un b
 [Uso]
 
 [Documentación]
+
+[Roadmap]
+
+[Licencia]
